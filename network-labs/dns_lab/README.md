@@ -6,14 +6,6 @@ By completing this lab, you will understand the separation between the **Control
 
 ---
 
-## 🗺️ System Architecture & Data Flow
-
-Below is the visual blueprint of the lab environment you built and tested:
-
-![Azure Private DNS Lab Diagram](digram%20dns%20%281%29.png)
-
----
-
 ## 🛠️ Lab Component Blueprint
 
 | Component | Resource Name | Configuration Details |
